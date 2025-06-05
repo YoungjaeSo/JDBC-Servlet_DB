@@ -1,7 +1,7 @@
 # JDBC-Servlet_DB
 
 *프로젝트 목표*
-- JDBC프로그래밍 VO, DAO, DAOIMPL구현 -> Servlet을 활용하여 처리 -> DATABASE연결
+- JDBC프로그래밍 : VO, DAO, DAOImpl 구현 -> Servlet을 활용하여 처리 -> DATABASE연결
 - Servlet과 JSP페이지를 활용하여 페이지 구성
 - JSP페이지는 HTML, EL, JSTL을 활용하여 작성
 - Filter를 통해 한글 인코딩 방식 처리
