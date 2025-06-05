@@ -3,7 +3,7 @@
 *프로젝트 목표*
 - JDBC프로그래밍 VO, DAO, DAOIMPL구현 -> Servlet을 활용하여 처리 -> DATABASE연결
 - Servlet과 JSP페이지를 활용하여 페이지 구성
-- JSP페이지는 EL, JSTL을 활용하여 작성
+- JSP페이지는 HTML, EL, JSTL을 활용하여 작성
 - Filter를 통해 한글 인코딩 방식 처리
 - GET, POST 요청방식 활용
 - Cookie 활용과 로그인 Session 유지 방식 활용
